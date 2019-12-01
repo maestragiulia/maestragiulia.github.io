@@ -1,0 +1,43 @@
+body {
+  font-family: "Indie Flower", cursive;
+  background: #fff9c4;
+  font-size: 1.5em;
+}
+
+p {
+  font-size: 1.2em;
+}
+
+.page {
+  margin-top: 50px;
+}
+
+.page-img {
+  width: 400px;
+  height: auto;
+}
+
+.stack-audio {
+  display: block;
+  margin-top: 10px;
+}
+
+.next-page-button {
+  padding: 10px 20px;
+  border: 1px black solid;
+  border-radius: 5px;
+  background: #eee;
+  color: black;
+  font-family: sans-serif;
+  text-decoration: none;
+  display: block;
+  margin: 50px 50px 10px 50px;
+  text-align: center;
+}
+
+.next-page-button:link,
+.next-page-button:visited,
+.next-page-button:hover,
+.next-page-button:active {
+  color: black;
+}
